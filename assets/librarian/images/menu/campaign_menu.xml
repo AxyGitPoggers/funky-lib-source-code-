@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ArrowNorm0000" x="0" y="0" width="647" height="230"/>
+	<SubTexture name="ArrowSelected0000" x="0" y="230" width="647" height="230"/>
+	<SubTexture name="DiffEasy0000" x="647" y="230" width="349" height="172"/>
+	<SubTexture name="DiffHard0000" x="0" y="460" width="349" height="172"/>
+	<SubTexture name="DiffNormal0000" x="349" y="460" width="349" height="172"/>
+	<SubTexture name="WeekIntro0000" x="0" y="632" width="349" height="172"/>
+	<SubTexture name="WeekLib0000" x="349" y="632" width="349" height="172"/>
+</TextureAtlas>

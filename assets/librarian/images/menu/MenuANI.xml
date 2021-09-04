@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MenuANI.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Freeplay0000" x="0" y="0" width="817" height="208"/>
+	<SubTexture name="Freeplay select0000" x="817" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="817" frameHeight="208"/>
+	<SubTexture name="Freeplay select0001" x="817" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="817" frameHeight="208"/>
+	<SubTexture name="Freeplay select0002" x="817" y="0" width="817" height="208"/>
+	<SubTexture name="Freeplay select0003" x="817" y="0" width="817" height="208"/>
+	<SubTexture name="Freeplay select0004" x="1634" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="817" frameHeight="208"/>
+	<SubTexture name="Freeplay select0005" x="1634" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="817" frameHeight="208"/>
+	<SubTexture name="Freeplay select0006" x="817" y="0" width="817" height="208"/>
+	<SubTexture name="Freeplay select0007" x="817" y="0" width="817" height="208"/>
+	<SubTexture name="Freeplay select0008" x="1634" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="817" frameHeight="208"/>
+	<SubTexture name="Freeplay select0009" x="1634" y="0" width="0" height="0" frameX="0" frameY="0" frameWidth="817" frameHeight="208"/>
+	<SubTexture name="FreeplayP0000" x="0" y="208" width="817" height="208"/>
+	<SubTexture name="MONEZZ0000" x="817" y="208" width="398" height="398"/>
+	<SubTexture name="MONEZZ select0000" x="1215" y="208" width="0" height="0" frameX="0" frameY="0" frameWidth="398" frameHeight="398"/>
+	<SubTexture name="MONEZZ select0001" x="1215" y="208" width="0" height="0" frameX="0" frameY="0" frameWidth="398" frameHeight="398"/>
+	<SubTexture name="MONEZZ select0002" x="1215" y="208" width="398" height="398"/>
+	<SubTexture name="MONEZZ select0003" x="1215" y="208" width="398" height="398"/>
+	<SubTexture name="MONEZZ select0004" x="1613" y="208" width="0" height="0" frameX="0" frameY="0" frameWidth="398" frameHeight="398"/>
+	<SubTexture name="MONEZZ select0005" x="1613" y="208" width="0" height="0" frameX="0" frameY="0" frameWidth="398" frameHeight="398"/>
+	<SubTexture name="MONEZZ select0006" x="1215" y="208" width="398" height="398"/>
+	<SubTexture name="MONEZZ select0007" x="1215" y="208" width="398" height="398"/>
+	<SubTexture name="MONEZZ select0008" x="1613" y="208" width="0" height="0" frameX="0" frameY="0" frameWidth="398" frameHeight="398"/>
+	<SubTexture name="MONEZZ select0009" x="1613" y="208" width="0" height="0" frameX="0" frameY="0" frameWidth="398" frameHeight="398"/>
+	<SubTexture name="MONEZZP0000" x="1613" y="208" width="398" height="398"/>
+	<SubTexture name="Opt0000" x="0" y="606" width="382" height="382"/>
+	<SubTexture name="Opt select0000" x="382" y="606" width="0" height="0" frameX="0" frameY="0" frameWidth="382" frameHeight="382"/>
+	<SubTexture name="Opt select0001" x="382" y="606" width="0" height="0" frameX="0" frameY="0" frameWidth="382" frameHeight="382"/>
+	<SubTexture name="Opt select0002" x="382" y="606" width="382" height="382"/>
+	<SubTexture name="Opt select0003" x="382" y="606" width="382" height="382"/>
+	<SubTexture name="Opt select0004" x="764" y="606" width="0" height="0" frameX="0" frameY="0" frameWidth="382" frameHeight="382"/>
+	<SubTexture name="Opt select0005" x="764" y="606" width="0" height="0" frameX="0" frameY="0" frameWidth="382" frameHeight="382"/>
+	<SubTexture name="Opt select0006" x="382" y="606" width="382" height="382"/>
+	<SubTexture name="Opt select0007" x="382" y="606" width="382" height="382"/>
+	<SubTexture name="Opt select0008" x="764" y="606" width="0" height="0" frameX="0" frameY="0" frameWidth="382" frameHeight="382"/>
+	<SubTexture name="Opt select0009" x="764" y="606" width="0" height="0" frameX="0" frameY="0" frameWidth="382" frameHeight="382"/>
+	<SubTexture name="OptP0000" x="764" y="606" width="382" height="382"/>
+	<SubTexture name="Story0000" x="1146" y="606" width="541" height="193"/>
+	<SubTexture name="Story select0000" x="1687" y="606" width="0" height="0" frameX="0" frameY="0" frameWidth="541" frameHeight="193"/>
+	<SubTexture name="Story select0001" x="1687" y="606" width="0" height="0" frameX="0" frameY="0" frameWidth="541" frameHeight="193"/>
+	<SubTexture name="Story select0002" x="0" y="988" width="541" height="193"/>
+	<SubTexture name="Story select0003" x="0" y="988" width="541" height="193"/>
+	<SubTexture name="Story select0004" x="541" y="988" width="0" height="0" frameX="0" frameY="0" frameWidth="541" frameHeight="193"/>
+	<SubTexture name="Story select0005" x="541" y="988" width="0" height="0" frameX="0" frameY="0" frameWidth="541" frameHeight="193"/>
+	<SubTexture name="Story select0006" x="0" y="988" width="541" height="193"/>
+	<SubTexture name="Story select0007" x="0" y="988" width="541" height="193"/>
+	<SubTexture name="Story select0008" x="541" y="988" width="0" height="0" frameX="0" frameY="0" frameWidth="541" frameHeight="193"/>
+	<SubTexture name="Story select0009" x="541" y="988" width="0" height="0" frameX="0" frameY="0" frameWidth="541" frameHeight="193"/>
+	<SubTexture name="StoryP0000" x="541" y="988" width="541" height="193"/>
+	<SubTexture name="arrow spawn0000" x="1082" y="988" width="290" height="291" frameX="-91" frameY="-90" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="arrow spawn0001" x="1082" y="988" width="290" height="291" frameX="-91" frameY="-90" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="arrow spawn0002" x="1372" y="988" width="346" height="347" frameX="-63" frameY="-62" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="arrow spawn0003" x="1372" y="988" width="346" height="347" frameX="-63" frameY="-62" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="arrow spawn0004" x="0" y="1335" width="390" height="389" frameX="-41" frameY="-41" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="arrow spawn0005" x="0" y="1335" width="390" height="389" frameX="-41" frameY="-41" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="arrow spawn0006" x="390" y="1335" width="448" height="447" frameX="-12" frameY="-12" frameWidth="473" frameHeight="472"/>
+	<SubTexture name="arrow spawn0007" x="838" y="1335" width="473" height="472"/>
+	<SubTexture name="arrow spawn0008" x="838" y="1335" width="473" height="472"/>
+	<SubTexture name="arrow spawn0009" x="1311" y="1335" width="448" height="447" frameX="-12" frameY="-12" frameWidth="448" frameHeight="447"/>
+	<SubTexture name="arrow spawn0010" x="1311" y="1335" width="448" height="447" frameX="-12" frameY="-12" frameWidth="448" frameHeight="447"/>
+	<SubTexture name="arrow spawn0011" x="1311" y="1335" width="448" height="447" frameX="-12" frameY="-12" frameWidth="448" frameHeight="447"/>
+	<SubTexture name="arrow spawn0012" x="1311" y="1335" width="448" height="447" frameX="-12" frameY="-12" frameWidth="448" frameHeight="447"/>
+	<SubTexture name="arrow spawn0013" x="1311" y="1335" width="448" height="447" frameX="-12" frameY="-12" frameWidth="448" frameHeight="447"/>
+	<SubTexture name="arrow spawn0014" x="1311" y="1335" width="448" height="447" frameX="-12" frameY="-12" frameWidth="448" frameHeight="447"/>
+	<SubTexture name="arrow still0000" x="1311" y="1335" width="448" height="447"/>
+</TextureAtlas>

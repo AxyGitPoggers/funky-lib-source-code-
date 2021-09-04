@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CrowdBACK1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GROVE0000" x="0" y="0" width="2560" height="1400" frameX="0" frameY="-222" frameWidth="2560" frameHeight="1653"/>
+	<SubTexture name="GROVE0001" x="0" y="0" width="2560" height="1400" frameX="0" frameY="-222" frameWidth="2560" frameHeight="1653"/>
+	<SubTexture name="GROVE0002" x="0" y="1400" width="2560" height="1400" frameX="0" frameY="-222" frameWidth="2560" frameHeight="1653"/>
+	<SubTexture name="GROVE0003" x="0" y="1400" width="2560" height="1400" frameX="0" frameY="-222" frameWidth="2560" frameHeight="1653"/>
+	<SubTexture name="GROVE0004" x="0" y="2800" width="2560" height="1400" frameX="0" frameY="-222" frameWidth="2560" frameHeight="1653"/>
+	<SubTexture name="GROVE0005" x="0" y="2800" width="2560" height="1400" frameX="0" frameY="-222" frameWidth="2560" frameHeight="1653"/>
+	<SubTexture name="GROVE0006" x="0" y="1400" width="2560" height="1400" frameX="0" frameY="-222" frameWidth="2560" frameHeight="1653"/>
+	<SubTexture name="GROVE0007" x="0" y="1400" width="2560" height="1400" frameX="0" frameY="-222" frameWidth="2560" frameHeight="1653"/>
+	<SubTexture name="GROVE0008" x="0" y="4200" width="2560" height="1653"/>
+	<SubTexture name="GROVE0009" x="0" y="4200" width="2560" height="1653"/>
+	<SubTexture name="GROVE0010" x="0" y="0" width="2560" height="1400" frameX="0" frameY="-222" frameWidth="2560" frameHeight="1653"/>
+	<SubTexture name="GROVE0011" x="0" y="0" width="2560" height="1400" frameX="0" frameY="-222" frameWidth="2560" frameHeight="1653"/>
+	<SubTexture name="GROVE0012" x="0" y="0" width="2560" height="1400" frameX="0" frameY="-222" frameWidth="2560" frameHeight="1653"/>
+	<SubTexture name="GROVE0013" x="0" y="0" width="2560" height="1400" frameX="0" frameY="-222" frameWidth="2560" frameHeight="1653"/>
+	<SubTexture name="GROVE0014" x="0" y="0" width="2560" height="1400" frameX="0" frameY="-222" frameWidth="2560" frameHeight="1653"/>
+</TextureAtlas>

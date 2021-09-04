@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SteroRegal.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Beat0000" x="0" y="0" width="683" height="354" frameX="0" frameY="0" frameWidth="683" frameHeight="355"/>
+	<SubTexture name="GF Dancing Beat0001" x="0" y="0" width="683" height="354" frameX="0" frameY="0" frameWidth="683" frameHeight="355"/>
+	<SubTexture name="GF Dancing Beat0002" x="0" y="0" width="683" height="354" frameX="0" frameY="0" frameWidth="683" frameHeight="355"/>
+	<SubTexture name="GF Dancing Beat0003" x="0" y="354" width="683" height="346" frameX="0" frameY="-8" frameWidth="683" frameHeight="355"/>
+	<SubTexture name="GF Dancing Beat0004" x="0" y="700" width="683" height="328" frameX="0" frameY="-27" frameWidth="683" frameHeight="355"/>
+	<SubTexture name="GF Dancing Beat0005" x="0" y="700" width="683" height="328" frameX="0" frameY="-27" frameWidth="683" frameHeight="355"/>
+	<SubTexture name="GF Dancing Beat0006" x="0" y="354" width="683" height="346" frameX="0" frameY="-8" frameWidth="683" frameHeight="355"/>
+	<SubTexture name="GF Dancing Beat0007" x="0" y="0" width="683" height="354" frameX="0" frameY="0" frameWidth="683" frameHeight="355"/>
+	<SubTexture name="GF Dancing Beat0008" x="0" y="0" width="683" height="354" frameX="0" frameY="0" frameWidth="683" frameHeight="355"/>
+	<SubTexture name="GF Dancing Beat0009" x="0" y="0" width="683" height="354" frameX="0" frameY="0" frameWidth="683" frameHeight="355"/>
+</TextureAtlas>

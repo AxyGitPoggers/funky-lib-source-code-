@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CrowdTOP1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GROVETOP0000" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1401"/>
+	<SubTexture name="GROVETOP0001" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1401"/>
+	<SubTexture name="GROVETOP0002" x="0" y="1400" width="2560" height="1401"/>
+	<SubTexture name="GROVETOP0003" x="0" y="1400" width="2560" height="1401"/>
+	<SubTexture name="GROVETOP0004" x="0" y="2801" width="2560" height="1401"/>
+	<SubTexture name="GROVETOP0005" x="0" y="2801" width="2560" height="1401"/>
+	<SubTexture name="GROVETOP0006" x="0" y="1400" width="2560" height="1401"/>
+	<SubTexture name="GROVETOP0007" x="0" y="1400" width="2560" height="1401"/>
+	<SubTexture name="GROVETOP0008" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1401"/>
+	<SubTexture name="GROVETOP0009" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1401"/>
+	<SubTexture name="GROVETOP0010" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1401"/>
+	<SubTexture name="GROVETOP0011" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1401"/>
+	<SubTexture name="GROVETOP0012" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1401"/>
+	<SubTexture name="GROVETOP0013" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1401"/>
+	<SubTexture name="GROVETOP0014" x="0" y="0" width="2560" height="1400" frameX="0" frameY="0" frameWidth="2560" frameHeight="1401"/>
+</TextureAtlas>

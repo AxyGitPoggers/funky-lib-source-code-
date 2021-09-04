@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="campaign_menu_UI_characters.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="none0000" x="0" y="0" width="50" height="50" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="none0001" x="0" y="0" width="50" height="50" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="none0002" x="0" y="0" width="50" height="50" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="none0003" x="0" y="0" width="50" height="50" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="none0004" x="0" y="0" width="50" height="50" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="none0005" x="0" y="0" width="50" height="50" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="none0006" x="0" y="0" width="50" height="50" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+	<SubTexture name="none0007" x="0" y="0" width="50" height="50" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+</TextureAtlas>

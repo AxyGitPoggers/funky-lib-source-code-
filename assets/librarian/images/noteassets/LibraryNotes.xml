@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTES 5.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ArrowDown0000" x="0" y="0" width="186" height="185"/>
+	<SubTexture name="DownHIT0000" x="186" y="0" width="186" height="185"/>
+	<SubTexture name="DownHOLD0000.png" x="372" y="0" width="36" height="65"/>
+	<SubTexture name="DownHOLDend0000" x="408" y="0" width="36" height="65"/>
+	<SubTexture name="DownNOTE0000" x="444" y="0" width="186" height="185"/>
+	<SubTexture name="DownSTILL0000" x="630" y="0" width="245" height="265"/>
+	<SubTexture name="ArrowLeft0000" x="0" y="265" width="186" height="185"/>
+	<SubTexture name="LeftHIT0000" x="186" y="265" width="186" height="185"/>
+	<SubTexture name="LeftHOLD0000" x="372" y="265" width="36" height="65"/>
+	<SubTexture name="LeftHOLDend0000" x="408" y="265" width="36" height="65"/>
+	<SubTexture name="LeftNOTE0000" x="444" y="265" width="186" height="185"/>
+	<SubTexture name="LeftSTILL0000" x="630" y="265" width="245" height="265"/>
+	<SubTexture name="ArrowMiddle0000" x="0" y="530" width="186" height="185"/>
+	<SubTexture name="MiddleHIT0000" x="186" y="530" width="186" height="185"/>
+	<SubTexture name="MiddleHOLD0000" x="372" y="530" width="36" height="65"/>
+	<SubTexture name="MiddleHOLDend0000" x="408" y="530" width="36" height="65"/>
+	<SubTexture name="MiddleNOTE0000" x="444" y="530" width="186" height="185"/>
+	<SubTexture name="MiddleSTILL0000" x="630" y="530" width="245" height="265"/>
+	<SubTexture name="ArrowRight0000" x="0" y="795" width="186" height="185"/>
+	<SubTexture name="RightHIT0000" x="186" y="795" width="186" height="185"/>
+	<SubTexture name="RightHOLD0000" x="372" y="795" width="36" height="65"/>
+	<SubTexture name="RightHOLDend0000" x="408" y="795" width="36" height="65"/>
+	<SubTexture name="RightNOTE0000" x="444" y="795" width="186" height="185"/>
+	<SubTexture name="RightSTILL0000" x="630" y="795" width="245" height="265"/>
+	<SubTexture name="ArrowUp0000" x="0" y="1060" width="186" height="185"/>
+	<SubTexture name="UpHIT0000" x="186" y="1060" width="186" height="185"/>
+	<SubTexture name="UpHOLD0000" x="372" y="1060" width="36" height="65"/>
+	<SubTexture name="UpHOLDend0000" x="408" y="1060" width="36" height="65"/>
+	<SubTexture name="UpNOTE0000" x="444" y="1060" width="186" height="185"/>
+	<SubTexture name="UpSTILL0000" x="630" y="1060" width="245" height="265"/>
+</TextureAtlas>
